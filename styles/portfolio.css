@@ -38,6 +38,9 @@
     line-height: 30px;
     color: #757575;
 }
+.btn:hover {
+    color: #000;
+}
 
 /* main style */
 
@@ -268,7 +271,7 @@ footer .footer-container {
     margin-right: 24px;
 }
 
-.footer-container form input[type="text"], .footer-container form textarea, .footer-container form input[type="emailf"] {
+.footer-container form input[type="text"], .footer-container form textarea, .footer-container form input[type="email"] {
     width: 461px;
     padding: 18px 31px;
     margin-bottom: 24px;
